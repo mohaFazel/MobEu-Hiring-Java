@@ -10,7 +10,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <properties>
-    <log4j.version>2.12.1</log4j.version>
+    <log4j.version>2.13.3</log4j.version>
     <junit.version>5.5.2</junit.version>
   </properties>
 
